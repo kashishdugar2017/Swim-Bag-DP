@@ -9,3 +9,6 @@ DP gets 50 because it choosed the most valued combination
 
 ## The Box Rule
 Skip skips the combination if it is smaller while take takes it if it is bigger
+
+## Why Back ward
+The list prints backward(Actually it doesn't because i used `reverse()`) anyway it should print backward because we start from most valued combonation and go up so we insert at start
