@@ -10,5 +10,8 @@ DP gets 50 because it choose the most valued comboination
 ## The Box Rule
 Skip skips the comboination if it is smaller while take takes it if it is bigger
 
-## Why Back ward
+## Why Backward
 The list prints backward(Actually it doesn't because i used `reverse()`) anyway it should print backward because we start from most valued combonation and go up so we insert at start
+
+## How to run
+`python Swim.py`
